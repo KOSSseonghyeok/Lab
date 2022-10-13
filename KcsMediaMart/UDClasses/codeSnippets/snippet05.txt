@@ -1,0 +1,26 @@
+	public void removeDVD(DVD disc) {
+		// store the number of discs currently in the order
+		int qty = getNumOrdered();
+
+		// check that the order is not empty
+		if (qty > 0) {
+			// loop through the discs in the order
+			for (int i = 0; i < qty; i++) {
+
+				// if you have found the correct disc in
+				// the order
+				if (disc.equals(dvdsOrdered[i])) {
+
+					// remove the disc from the order
+					dvdsOrdered[i] = null;
+
+					// decrement the number of discs
+					// ordered
+					setNumOrdered(qty - 1);
+
+					// exit the loop;
+					break;
+				}
+			}
+		}
+	}

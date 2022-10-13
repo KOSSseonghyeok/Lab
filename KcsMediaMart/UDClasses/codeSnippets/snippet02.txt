@@ -1,0 +1,12 @@
+	/**
+	* Returns the title
+	*/
+	public String getTitle() {
+		return title;
+	}
+	/**
+	* Sets the title
+	*/
+	public void setTitle(String title) {
+		this.title = title;
+	}
