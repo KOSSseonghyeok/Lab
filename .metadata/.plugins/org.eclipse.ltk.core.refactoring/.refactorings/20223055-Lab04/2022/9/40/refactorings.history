@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;practice5.java&apos; to &apos;CastTwo.java&apos;&#x0D;&#x0A;- Original project: &apos;20223055-Lab04&apos;&#x0D;&#x0A;- Original element: &apos;practice5.java&apos;&#x0D;&#x0A;- Renamed element: &apos;CastTwo.java&apos;" description="Rename compilation unit &apos;practice5.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;{practice5.java" name="CastTwo.java" references="false" stamp="1664207864957" version="1.0"/>
+</session>

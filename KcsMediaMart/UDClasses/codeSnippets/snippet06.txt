@@ -1,0 +1,13 @@
+	public float totalCost() {
+		// store the number of discs currently in the order
+		int num = getNumOrdered();
+
+		// store the running total of the discs in the order
+		float total = 0;
+
+		// loop through the discs in the order
+		for (int i = 0; i < num; i++) {
+			total = total + dvdsOrdered[i].getCost();
+		}
+		return total;
+	}

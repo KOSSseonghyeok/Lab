@@ -1,0 +1,10 @@
+package kr.ac.kookmin.debugDemo;
+
+public class QuitConditionTester {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

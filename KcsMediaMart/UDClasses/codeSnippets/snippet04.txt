@@ -1,0 +1,13 @@
+	public void addDVD(DVD disc) {
+		// store the number of discs currently in the order
+		int qty = getNumOrdered();
+
+		// check that the order is not already full
+		if (qty < 10) {
+			// add the disc to the order
+			dvdsOrdered[qty] = disc;
+
+			// increment the number of discs ordered
+			setNumOrdered(qty + 1);
+		}
+	}

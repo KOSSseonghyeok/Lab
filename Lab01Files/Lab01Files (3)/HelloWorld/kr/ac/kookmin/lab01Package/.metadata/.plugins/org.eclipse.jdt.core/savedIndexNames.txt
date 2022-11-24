@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+C:\Users\user\Desktop\°´ÁöÇÁ\JavaLab\Lab01Files\Lab01Files (3)\HelloWorld\kr\ac\kookmin\lab01Package\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
